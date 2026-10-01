@@ -26,11 +26,11 @@ A simple and user-friendly QR Code Generator built with **Python** and **Streaml
 
 ### QR Code Generator
 
-![QR Code Generator](qr-generator/QrGen.png)
+![QR Code Generator](QrGen.png)
 
 ### Generated QR Code
 
-![Generated QR Code](qr-generator/QrGen1.png)
+![Generated QR Code](QrGen1.png)
 
 ## 📂 Project Structure
 
