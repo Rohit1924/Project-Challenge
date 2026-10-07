@@ -45,8 +45,6 @@ My-Text-Editor/
 └── text_editor.py
 ```
 
-## 👨‍💻 Author
 
-**Rohit**
 
-Part of the **30 Days Project Challenge**.
+
